@@ -1,0 +1,22 @@
+html{
+    scroll-behavior: auto !important;
+}
+.fluid{
+    margin-top: 80px;
+    width: 100vw;
+    margin-bottom: 50px;
+}
+
+.all-farms-space{
+    margin-top: 20px;
+    margin-left: 70px !important;
+    cursor: pointer;
+}
+
+.farms-text{
+    text-align: center;
+    margin-top: 15px;
+    color: #415162;
+    font-family: "Open-Sans";
+    font-size: 18px;
+}
